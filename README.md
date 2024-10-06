@@ -60,14 +60,5 @@ Finally, navigate to `http://127.0.0.1:8000/` in your browser to access the appl
 
 You can find the dataset used for this project [here](https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning).
 
-### Some Screenshots of This Web App
 
-![Screenshot 1](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture1.PNG)
-![Screenshot 2](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture2.PNG)
-![Screenshot 3](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture3.PNG)
-![Screenshot 4](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture4.PNG)
-![Screenshot 5](https://github.com/anuj-glitch/Disease-Prediction-using-Django-and-machine-learning/blob/master/screenshots/Capture5.PNG)
 
-### ***Go to the [Readme.pdf](Readme.pdf) file for detailed information about the project & screenshots.***
-
-If you like this project, do give it a "Star". Thank you!
